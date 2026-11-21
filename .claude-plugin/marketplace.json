@@ -1,0 +1,12 @@
+{
+  "name": "dental-ax",
+  "description": "치과 AX 강의에서 쓰는 Claude Code 플러그인과 mod 모음",
+  "owner": { "name": "medicurator" },
+  "plugins": [
+    {
+      "name": "usage-band",
+      "source": "./plugins/usage-band",
+      "description": "입력창 위에 현재 모델, 컨텍스트 사용 비율, 5시간·7일 사용 한도를 막대로 보여 준다"
+    }
+  ]
+}

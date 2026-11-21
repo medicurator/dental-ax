@@ -1,0 +1,6 @@
+{
+  "name": "usage-band",
+  "version": "0.18.0",
+  "description": "프롬프트 위 띠에 이 세션의 토큰 사용량, 컨텍스트 창 사용 비율, 사용 한도, 현재 모델, 5시간 한도 리셋 시각을 보여 준다",
+  "types": "./types/index.d.ts"
+}
